@@ -3,3 +3,4 @@ Hello, world!
 ввйцайцм
 
 Hello, git!
+Hello, git rebase!
